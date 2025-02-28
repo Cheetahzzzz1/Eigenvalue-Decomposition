@@ -19,3 +19,5 @@ A matrix is positive definite if:
 1. All its eigenvectors are positive
 
 2. Alternatively, using Sylvestor's criterion, all leading principal minors are positive.
+
+(b) <ins> Eigendecomposition </ins>
