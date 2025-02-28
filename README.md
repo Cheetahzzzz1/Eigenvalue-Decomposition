@@ -10,3 +10,12 @@ Attached below is the screenshot of the problem statement
 
 ![Screenshot 2025-02-28 175900](https://github.com/user-attachments/assets/8ca4f521-d79a-4190-bc1a-f9347af41a8b)
 
+# Methodology
+
+(a) <ins> Checking Positive Definiteness </ins>
+
+A matrix is positive definite if:
+
+1. All its eigenvectors are positive
+
+2. Alternatively, using Sylvestor's criterion, all leading principal minors are positive.
