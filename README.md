@@ -21,3 +21,9 @@ A matrix is positive definite if:
 2. Alternatively, using Sylvestor's criterion, all leading principal minors are positive.
 
 (b) <ins> Eigendecomposition </ins>
+
+We solve for the eigenvalues and eigenvectors by solving:
+
+           det(A - λI) = 0
+
+and computing the corresponding eigenvectors.
