@@ -27,3 +27,11 @@ We solve for the eigenvalues and eigenvectors by solving:
            det(A - λI) = 0
 
 and computing the corresponding eigenvectors.
+
+(c) <ins> Verification </ins>
+
+1. Compute A^2 directly and verify that it matches Vʌ^2V^T.
+
+2. Compute the inverse A^-1 and verify that it matches Vʌ^-1V^T.
+
+# Implementation
