@@ -35,3 +35,22 @@ and computing the corresponding eigenvectors.
 2. Compute the inverse A^-1 and verify that it matches Vʌ^-1V^T.
 
 # Implementation
+
+The calculations were performed mathematically and verified using Python. The implementation:
+
+1. Computes eigenvalues and eigenvectors using
+
+             numpy.linalg.eigh
+
+2. Constructs VʌV^T and compares the results numerically.
+
+3. Verifies the positive definiteness using determinant conditions.
+
+# Results
+
+1. The matrix was confirmed to be positive definite.
+
+2. Eigendecomposition successfully provided orthonormal eigenvectors and corresponding eigenvalues.
+
+3. Matrix identities were verified numerically.
+
