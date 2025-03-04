@@ -54,3 +54,14 @@ The calculations were performed mathematically and verified using Python. The im
 
 3. Matrix identities were verified numerically.
 
+# Dependencies
+
+1. Python 3
+
+2. NumPy
+
+3. Pandas
+
+# Conclusion
+
+The problem was successfully solved using both analytical and numerical methods, confirming the matrix's properties and decomposition.
